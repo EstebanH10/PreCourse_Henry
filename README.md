@@ -1,2 +1,1 @@
-# PreCourse_Henry
-Este es un repositorio del modulo dos
+Este proyecto es una prueba
